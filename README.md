@@ -74,7 +74,8 @@ Java毕业设计项目
 ![image](https://github.com/1066893961/android_java_app/assets/9737090/04c0712f-8dd9-4388-b921-aa59ae51db01)
 
 
-
+                        
+原文链接：https://blog.csdn.net/qq_21399461/article/details/122113292
 
                         
 原文链接：https://blog.csdn.net/qq_21399461/article/details/133705381
